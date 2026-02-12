@@ -1,5 +1,5 @@
-# Name: KIRUPASHANKAR K
-# Reg no:212224020021
+# Name: MOHAMED ABUTHAEER K
+# Reg no:212224020030
 # ExpNo:10 Implementation of Classical Planning Algorithm
 # Algorithm or Steps Involved:
 <ol>
